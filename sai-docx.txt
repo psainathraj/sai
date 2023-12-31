@@ -1,1 +1,2 @@
-hey this is sai here.
+git remote set-url origin https://github.com/psainathraj/sainath.git
+ git remote remove https://github.com/psainathraj/git1.git
