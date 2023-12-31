@@ -1,2 +1,8 @@
 git remote set-url origin https://github.com/psainathraj/sainath.git
  git remote remove https://github.com/psainathraj/git1.git
+
+sudo yum install jenkins -y
+sudo systemctl enable jenkins
+sudo systemctl start jenkins
+sudo systemctl status jenkins
+http://<your_server_public_DNS>:8080 
